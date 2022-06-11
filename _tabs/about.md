@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> A site for writing blogs and taking notes for anything.(just for my personal use)
+
+### I dont know why I am doing this even though I can take notes on a paper.But its more cool I guess.
+
+> You know theres a site name [Modelsmith](https://modelsmith.info) which is way much cooler then this.
 {: .prompt-tip }
