@@ -1,6 +1,6 @@
 ---
 title: Scaliblity and Elasticity in Cloud
-date: 2022-06-11 10:05 -500
+date: 2022-06-12 10:05 -500
 categories: [AWS,Cloud,Notes]
 tags: [aws,cloud,scalablity,elasticity,notes]
 ---
