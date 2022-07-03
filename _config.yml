@@ -26,10 +26,10 @@ title: BloGsmith                        # the main title
 tagline: Smithing Blogs   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A minimal, responsive, and powerful notes personal taking static webapp for regular use. .
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://modelsmith.info'
+url: 'https://anky209e.github.io'
 
 github:
   username: Anky209e             # change to your github username
@@ -48,7 +48,7 @@ social:
     - https://github.com/Anky209e  
     - https://modelsmith.info     # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    # - https://modelsmith.info
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
